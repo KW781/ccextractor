@@ -27,6 +27,10 @@
   for this.
 - Fix: Segmentation fault on Windows
 
+0.88 (2021-04-13)
+-----------------
+- Update: Deleted get_video_min_pts() from ts_functions.c 
+
 0.88 (2019-05-21)
 -----------------
 - New: More tapping points for debug image in ccextractor.
